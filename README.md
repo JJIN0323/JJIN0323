@@ -1,5 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=50&pause=1000&width=700&height=100&lines=Welcome+to+my+world+!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=50&pause=1000&color=F7D318&width=700&height=100&lines=Welcome+to+my+world+~)](https://git.io/typing-svg)
+<!-- Typing SVG
+     : https://readme-typing-svg.demolab.com/demo/?font=Bungee+Tint&size=50&color=F7D318&width=700&height=100&lines=Welcome+to+my+world+!
+-->
 - 🌱 I’m currently learning JAVA & Springboot
 
 <!--
