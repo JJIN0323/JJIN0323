@@ -1,8 +1,6 @@
 ## Hi there 👋
 
----
-
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JAVA & Springboot
 
 <!--
 **JJIN0323/JJIN0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
