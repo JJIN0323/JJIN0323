@@ -10,7 +10,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJIN0323&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJIN0323&show_icons=true&theme=transparent&title_color=232323&text_color=ff7646&icon_color=ff9e3f&border_color=ffffff&hide_title=true)
 
 <!-- Github stats : https://github.com/anuraghazra/github-readme-stats -->
 
