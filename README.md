@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Tint&size=50&pause=1000&width=700&height=100&lines=Welcome+to+my+world+!)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning JAVA & Springboot
 
